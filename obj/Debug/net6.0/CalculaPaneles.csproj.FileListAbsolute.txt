@@ -1,0 +1,15 @@
+C:\Fuentes\CalculaPaneles\CalculaPaneles\bin\Debug\net6.0\CalculaPaneles.exe
+C:\Fuentes\CalculaPaneles\CalculaPaneles\bin\Debug\net6.0\CalculaPaneles.deps.json
+C:\Fuentes\CalculaPaneles\CalculaPaneles\bin\Debug\net6.0\CalculaPaneles.runtimeconfig.json
+C:\Fuentes\CalculaPaneles\CalculaPaneles\bin\Debug\net6.0\CalculaPaneles.dll
+C:\Fuentes\CalculaPaneles\CalculaPaneles\bin\Debug\net6.0\CalculaPaneles.pdb
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.csproj.AssemblyReference.cache
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.AssemblyInfoInputs.cache
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.AssemblyInfo.cs
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.csproj.CoreCompileInputs.cache
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.dll
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\refint\CalculaPaneles.dll
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.pdb
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\CalculaPaneles.genruntimeconfig.cache
+C:\Fuentes\CalculaPaneles\CalculaPaneles\obj\Debug\net6.0\ref\CalculaPaneles.dll
